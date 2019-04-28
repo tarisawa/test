@@ -1,4 +1,4 @@
-unit Unit9;
+﻿unit Unit9;
 
 interface
 
@@ -9,6 +9,7 @@ uses
 type
   TForm9 = class(TForm)
     Edit1: TEdit;
+    鷗外2: TEdit;
   private
     { Private declarations }
   public

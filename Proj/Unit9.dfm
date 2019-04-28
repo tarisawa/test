@@ -1,4 +1,4 @@
-object Form9: TForm9
+﻿object Form9: TForm9
   Left = 0
   Top = 0
   Caption = 'Form9'
@@ -19,6 +19,14 @@ object Form9: TForm9
     Width = 121
     Height = 21
     TabOrder = 0
-    Text = 'Edit1'
+    Text = #40407#22806
+  end
+  object 鷗外2: TEdit
+    Left = 328
+    Top = 352
+    Width = 121
+    Height = 21
+    TabOrder = 1
+    Text = #40407#22806'2'
   end
 end
